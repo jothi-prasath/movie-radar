@@ -1,5 +1,5 @@
 # Now Playing Movies using TMDB API
-A Flask web application that displays latest now playing movies in based on language. 
+A Flask web application that displays latest now playing movies based on language. 
 
 This application uses the free [TMDB](https://www.themoviedb.org) (The Movie Database) API.
 
