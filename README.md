@@ -1,4 +1,4 @@
-# Now Playing Movies using TMDB API
+# Movie Radar
 A Flask web application that displays latest now playing movies based on language. 
 
 This application uses the free [TMDB](https://www.themoviedb.org) (The Movie Database) API.
