@@ -7,6 +7,9 @@
     <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 </head>
 <body>
+    <nav>
+      <h1>Movie Radar</h1>
+    </nav>
     <ul class="movie-list">
         {% for movie in movies %}
         <li class="movie-item">
